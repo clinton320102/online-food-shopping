@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "image": "images/kimchi.webp",
+    "name": "Homemade Kimchi 500g",
+    "price": 150.00,
+    "avail": 24,
+    "description": "Kimchi, is a traditional Korean side dish of salted and fermented vegetables, such as napa cabbage and Korean radish. A wide selection of seasonings are used, including gochugaru, spring onions, garlic, ginger, and jeotgal, etc. Kimchi is also used in a variety of soups and stews."
+  }, 
+  {
+    "id": 2,
+    "image": "images/beefbulgogi.webp",
+    "name": "Beef Bulgogi 500g",
+    "price": 670.00,
+    "avail": 12,
+    "description": "Bulgogi, literally fire meat, is a gui made of thin, marinated slices of beef or pork grilled on a barbecue or on a stove-top griddle. It is also often stir-fried in a pan in home cooking. Sirloin, rib eye or brisket are frequently used cuts of beef for the dish."
+  },
+  {
+    "id": 3,
+    "image": "images/porkbulgogi.webp",
+    "name": "Pork Bulgogi 250g",
+    "price": 260.00,
+    "avail": 7,
+    "description": "Bulgogi, literally fire meat, is a gui made of thin, marinated slices of beef or pork grilled on a barbecue or on a stove-top griddle. It is also often stir-fried in a pan in home cooking. Sirloin, rib eye or brisket are frequently used cuts of beef for the dish."
+  },
+  {
+    "id": 4,
+    "image": "images/odengbokkeum.webp",
+    "name": "Odeng Bokkeum 250g",
+    "price": 180.00,
+    "avail": 9,
+    "description": "Fishcake is called eomuk or odeng (a wrong expression derived from Japanese word, oden) in Korea. It is a processed seafood product made of ground white fish and other ingredients such as potato starch, sugar and vegetables"
+  },
+  {
+    "id": 5,
+    "image": "images/woosamgyup.webp",
+    "name": "Woo Samgyup 500g",
+    "price": 180.00,
+    "avail": 3,
+    "description": "Woo Samgyup is thinly sliced beef with a tender texture and a burst of flavor. Our dishes are served charcoal-grilled for you to enjoy."
+  }, 
+  {
+    "id": 6,
+    "image": "images/cheesedeep.webp",
+    "name": "Cheese Deep 500g",
+    "price": 170.00,
+    "avail" : 6,
+    "description": "Keep refrigerated. Instructions: Cut the cheese. For every 2 cups of cheese, pour 5 teaspoons of fresh milk on the cheese. Heat in a microwave using the proper container or in a pan. Transfer to a separate bowl for serving. Enjoy. "
+  },
+  {
+    "id": 7,
+    "image": "images/gamjajorim.webp",
+    "name": "Gamja Jorim 250g",
+    "price": 140.00,
+    "avail": 9,
+    "description": "Braised marbled baby potatoes. Keep refrigerated."
+  },
+  {
+    "id": 8,
+    "image": "images/sesamesauce.webp",
+    "name": "Sesame Sauce 100g",
+    "price": 120.00,
+    "avail": 15,
+    "description": "Our sesame sauce is made with sesame oil and Korean salt and pepper. It's the perfect dipping sauce for fresh, unmarinated meats like our Salt & Pepper Samgyupsal and Woo Samgyup."
+  },
+  {
+    "id": 9,
+    "image": "images/ssamjang.webp",
+    "name": "Homemade Ssamjang 250g",
+    "price": 150.00,
+    "avail": 8,
+    "description": "Samjang is our homemade mildly spicy soybean dip for lettuce wraps. You may get 1 pc of lettuce, dip the beef in Samjang, place it in the lettuce, add garlic, and wrap it. Enjoy!"
+  },
+  {
+    "id": 10,
+    "image": "images/myeolchi.webp",
+    "name": "Myeolchi Bokkeum 250g",
+    "price": 180.00,
+    "avail": 5,
+    "description": "Roasted peanuts and anchovies. Keep sealed and refrigerated if unconsumed. "
+  },
+  {
+    "id": 11,
+    "image": "images/soygarlic.webp",
+    "name": "Soy Garlic Samgyupsal 500g",
+    "price": 500.00,
+    "avail": 11,
+    "description": "Ready-to-grill. Soy garlic marinated pork belly. Meat marinades are made with fresh ingredients and no preservatives. Meats are delivered frozen and may require some thawing before cooking. Side dishes, sauces and lettuce are ordered separately. "
+  }
+]
