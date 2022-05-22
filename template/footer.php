@@ -7,8 +7,8 @@
     </div>
   </footer>
   
-  <script src="script.js?v=<?php echo time(); ?>"></script>
-  <script src="scriptAcc.js?v=<?php echo time(); ?>"></script>
+  <script src="scriptjs/script.js?v=<?php echo time(); ?>"></script>
+  <script src="scriptjs/scriptAcc.js?v=<?php echo time(); ?>"></script>
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
     AOS.init();

@@ -25,7 +25,7 @@
         <div class="product-list">
           <?php 
 
-            $json_data = file_get_contents("product.json");
+            $json_data = file_get_contents("database/product.json");
             $products = json_decode($json_data, true);
 
             if(count($products) != 0) {

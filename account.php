@@ -5,6 +5,8 @@
 
   <div class="account">
     <div class="container inner-container">
+
+    <!-- Sign up -->
       <div class="signup-form" data-aos="fade-left">
         <div>
           <h1>Create an account</h1>
@@ -22,6 +24,7 @@
         </div>
       </div>
 
+      <!-- Login -->
       <div class="login-form">
         <h1>Sign in</h1>
         <form action="">

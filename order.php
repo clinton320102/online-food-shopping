@@ -11,7 +11,7 @@
           if(isset($_GET['id'])) {
             $id = $_GET['id'];
         
-            $json_data = file_get_contents("product.json");
+            $json_data = file_get_contents("database/product.json");
             $products = json_decode($json_data, true);
 
             foreach($products as $product) {

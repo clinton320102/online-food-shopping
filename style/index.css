@@ -16,7 +16,7 @@
 /* header */
 .top {
   height: 75vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('images/bannerbackground.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/bannerbackground.jpg');
   background-size: cover;
   background-attachment: fixed;
   overflow-x: hidden;
